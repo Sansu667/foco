@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foco</string>
+    <string name="service_label">Foco: bloqueo de redes</string>
+    <string name="service_description">Foco usa este permiso solo para saber qué app está en pantalla. Cuando abres una red social durante el bloqueo, te devuelve al inicio y te muestra tus pendientes. No lee ni guarda lo que escribes, y no envía nada a internet.</string>
+</resources>
